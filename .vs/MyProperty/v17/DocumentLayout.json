@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\Complete C# Unity Game Developer 3D\\MyProperty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6B359-9CC5-AC25-DB4C-5FBFBD18B31B}|Assembly-CSharp.csproj|d:\\udemy\\complete c# unity game developer 3d\\myproperty\\assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6B359-9CC5-AC25-DB4C-5FBFBD18B31B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoordinateLabeler.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete C# Unity Game Developer 3D\\MyProperty\\Assets\\Scripts\\CoordinateLabeler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoordinateLabeler.cs",
+              "ToolTip": "D:\\Udemy\\Complete C# Unity Game Developer 3D\\MyProperty\\Assets\\Scripts\\CoordinateLabeler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoordinateLabeler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:51:47.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
